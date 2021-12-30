@@ -8,7 +8,6 @@ import 'package:machine_test/template/Starred.dart';
 import 'package:machine_test/template/User.dart';
 import 'package:machine_test/template/gists.dart';
 import 'package:machine_test/template/repo.dart';
-import 'package:machine_test/webview.dart';
 import 'package:provider/provider.dart';
 import 'package:url_launcher/url_launcher.dart';
 
