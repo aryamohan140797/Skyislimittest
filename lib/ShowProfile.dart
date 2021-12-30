@@ -55,7 +55,7 @@ class ProfileState extends State<ShowProfile> {
   var ResBody;
   List<Repo> _repo = [];
   List<Gist> _gist = [];
-  
+
   List<Starred> _starred = [];
   List<User> _followers = [];
   List<User> _following = [];
